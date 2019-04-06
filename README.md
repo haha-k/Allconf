@@ -1,0 +1,2 @@
+# Allconf
+All config
