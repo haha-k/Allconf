@@ -1,2 +1,5 @@
 # Allconf
-All config
+
+### .zshrc
+### .tmux.conf
+### .vimrc
